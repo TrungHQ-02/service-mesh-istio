@@ -1,0 +1,5 @@
+/api-gateway/node_modules
+/frontend/node_modules
+/random-server/node_modules
+/version-server/node_modules
+/version-server - v2/node_modules
